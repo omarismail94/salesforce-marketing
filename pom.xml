@@ -31,7 +31,7 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <!-- version properties -->
     <cdap.version>6.1.0-SNAPSHOT</cdap.version>
-    <junit.version>4.12</junit.version>
+    <junit.version>4.13.1</junit.version>
     <hadoop.version>2.3.0</hadoop.version>
     <hydrator.version>2.2.0</hydrator.version>
     <salesforce.marketing.cloud.version>1.4.0</salesforce.marketing.cloud.version>
